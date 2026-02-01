@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <ScreenOverlay>
+    <name>Maucha symbol key</name>
+    <Icon>
+      <href>http://www.dwaf.gov.za/iwqs/wms/data/Legend_Maucha.jpg</href>
+    </Icon>
+    <overlayXY x="0.002" y="0.995" xunits="fraction" yunits="fraction"/>
+    <screenXY x="0.002" y="0.995" xunits="fraction" yunits="fraction"/>
+    <rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+    <size x="0" y="0" xunits="fraction" yunits="fraction"/>
+  </ScreenOverlay>
+</kml>

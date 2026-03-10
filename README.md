@@ -1,1 +1,12 @@
-Develop a robust machine learning model capable of predicting water quality across various river locations in South Africa. In addition to accurate predictions, the model should also identify and emphasize the key factors that significantly influence water quality.
+# Water Challenge 2026
+
+This repository contains datasets, models, and Jupyter notebooks for the Water Challenge 2026 project.
+
+## Contents
+- Datasets
+- Models
+- Jupyter Notebook Package
+- Experiment Runs
+
+## Author
+Richard Hans
